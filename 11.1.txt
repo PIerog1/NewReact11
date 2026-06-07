@@ -1,0 +1,9 @@
+1. zwykła zmienna w JavaScript możesz ją zmienić
+ale React tego nie widzi
+więc strona się nie odświeża
+
+zmienna stanowa- specjalna zmienna w react React ją śledzi
+jak zmienisz przez setCount to strona się odswiezy
+
+let count => zmienia się, ale ekran tego nie pokazuje
+useState => zmienia się i ekran się aktualizuje
